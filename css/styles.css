@@ -17,6 +17,7 @@ body {
 	width:100%;
 	margin:0;
 	background-size:cover;
+	background-image: url("road2.jpg");
 }
 .ie body {
 	filter: dropshadow(color=#000000, offx=0, offy=1);	
