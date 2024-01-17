@@ -4,10 +4,9 @@ Author URL: http://webthemez.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 */
-@import url(http://fonts.googleapis.com/css?family=Economica:400,700);
-@import url(http://fonts.googleapis.com/css?family=Lobster+Two:700);
 body {
 	font-family: 'Economica', sans-serif;
+	background-image: url("images/road2.jpg");
 	min-width:960px;
 	top:0;
 	left:0;
@@ -16,7 +15,6 @@ body {
 	width:100%;
 	margin:0;
 	background-size:cover;
-	background-image: url("images/road2.jpg");
 }
 .ie body {
 	filter: dropshadow(color=#000000, offx=0, offy=1);	
